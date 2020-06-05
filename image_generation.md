@@ -1,4 +1,4 @@
-# Knowledge Graph
+# Image Generation
 
 |No.   |Figure   |Title   |Pub.  |Link|
 |-----|:-----:|:-----:|:-----:|:---:|
