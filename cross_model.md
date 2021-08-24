@@ -2,6 +2,7 @@
 
 |No.   |Figure   |Title   |Pub.  |Link|
 |:----|:-----:|:-----:|:-----:|:---:|
+|13|![bi](IM/bi.png)|__Bi-directional Relationship Inferring Network for Referring Image Segmentation__|__CVPR 2020__|[`Paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_Bi-Directional_Relationship_Inferring_Network_for_Referring_Image_Segmentation_CVPR_2020_paper.pdf) [`Github`](https://github.com/fengguang94/CVPR2020-BRINet)|
 |12|![multigrained](IM/Mucko.png)|__Mucko: Multi-Layer Cross-Modal Knowledge Reasoning for Fact-based Visual Question Answering__|__IJCAI 2020__|[`Paper`](https://www.ijcai.org/proceedings/2020/0153.pdf) [`Github`](https://github.com/astro-zihao/mucko)|
 |11|![multigrained](IM/multigrained.png)|__Multi-grained Attention with Object-level Grounding for Visual Question Answering__|__ACL 2019__|[`Paper`](https://aclanthology.org/P19-1349.pdf)|
 |10|![MUREL](IM/MUREL.png)|__MUREL: Multimodal Relational Reasoning for Visual Question Answering__|__CVPR 2019__|[`Paper`](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cadene_MUREL_Multimodal_Relational_Reasoning_for_Visual_Question_Answering_CVPR_2019_paper.pdf) [`Github`](https://github.com/Cadene/murel.bootstrap.pytorch)|
