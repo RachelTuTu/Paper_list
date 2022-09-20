@@ -4,3 +4,4 @@
 - [Image generation](image_generation.md)
 - [Cross model](cross_model.md)
 - [Knowledge](knowledge.md)
+- [Co-saliency](co_saliency.md)
