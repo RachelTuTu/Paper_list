@@ -2,6 +2,7 @@
 
 |No.   |Figure   |Title   |Pub.  |Link|
 |:----|:-----:|:-----:|:-----:|:---:|
+|14|![bi](IM/parse.png)|__Unsupervised Vision-Language Parsing: Seamlessly Bridging Visual Scene Graphs with Language Structures via Dependency Relationships__|__CVPR 2022__|[`Paper`](https://openaccess.thecvf.com/content/CVPR2022/papers/Lou_Unsupervised_Vision-Language_Parsing_Seamlessly_Bridging_Visual_Scene_Graphs_With_Language_CVPR_2022_paper.pdf) [`Github`](https://github.com/bigai-research/VLGAE)|
 |13|![bi](IM/bi.png)|__Bi-directional Relationship Inferring Network for Referring Image Segmentation__|__CVPR 2020__|[`Paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_Bi-Directional_Relationship_Inferring_Network_for_Referring_Image_Segmentation_CVPR_2020_paper.pdf) [`Github`](https://github.com/fengguang94/CVPR2020-BRINet)|
 |12|![multigrained](IM/Mucko.png)|__Mucko: Multi-Layer Cross-Modal Knowledge Reasoning for Fact-based Visual Question Answering__|__IJCAI 2020__|[`Paper`](https://www.ijcai.org/proceedings/2020/0153.pdf) [`Github`](https://github.com/astro-zihao/mucko)|
 |11|![multigrained](IM/multigrained.png)|__Multi-grained Attention with Object-level Grounding for Visual Question Answering__|__ACL 2019__|[`Paper`](https://aclanthology.org/P19-1349.pdf)|
