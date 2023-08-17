@@ -1,7 +1,8 @@
 # Cross Model
 
-|No.   |Figure   |Title   |Pub.  |Link|
+|No.   |Figure   |Title   |Pub.  |Link|         
 |:----|:-----:|:-----:|:-----:|:---:|
+|16|![bi](IM/affinitynet.png)|__Learning Pixel-level Semantic Affinity with Image-level Supervision for Weakly Supervised Semantic Segmentation__|__CVPR 2018__|[`Paper`](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ahn_Learning_Pixel-Level_Semantic_CVPR_2018_paper.pdf) [`Github`](https://github.com/jiwoon-ahn/psa)|
 |15|![bi](IM/IJCAI20.png)|__Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual and Semantic Embeddings__|__IJCAI 2020__|[`Paper`](https://arxiv.org/abs/2001.09540)|
 |14|![bi](IM/parse.png)|__Unsupervised Vision-Language Parsing: Seamlessly Bridging Visual Scene Graphs with Language Structures via Dependency Relationships__|__CVPR 2022__|[`Paper`](https://openaccess.thecvf.com/content/CVPR2022/papers/Lou_Unsupervised_Vision-Language_Parsing_Seamlessly_Bridging_Visual_Scene_Graphs_With_Language_CVPR_2022_paper.pdf) [`Github`](https://github.com/bigai-research/VLGAE)|
 |13|![bi](IM/bi.png)|__Bi-directional Relationship Inferring Network for Referring Image Segmentation__|__CVPR 2020__|[`Paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_Bi-Directional_Relationship_Inferring_Network_for_Referring_Image_Segmentation_CVPR_2020_paper.pdf) [`Github`](https://github.com/fengguang94/CVPR2020-BRINet)|
@@ -9,7 +10,7 @@
 |11|![multigrained](IM/multigrained.png)|__Multi-grained Attention with Object-level Grounding for Visual Question Answering__|__ACL 2019__|[`Paper`](https://aclanthology.org/P19-1349.pdf)|
 |10|![MUREL](IM/MUREL.png)|__MUREL: Multimodal Relational Reasoning for Visual Question Answering__|__CVPR 2019__|[`Paper`](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cadene_MUREL_Multimodal_Relational_Reasoning_for_Visual_Question_Answering_CVPR_2019_paper.pdf) [`Github`](https://github.com/Cadene/murel.bootstrap.pytorch)|
 |9|![mmgnn](IM/mmgnn.png)|__Multi-Modal Graph Neural Network for Joint Reasoning on Vision and Scene Text__|__CVPR 2020__|[`Paper`](https://arxiv.org/abs/2003.13962) [`Github`](https://github.com/ricolike/mmgnn_textvqa)|
-|8|![wssis](IM/wssis.png)|__Fine-grained Video-Text Retrieval with Hierarchical Graph Reasoning__|__BMVC 2020__|[`Paper`](https://www.bmvc2020-conference.com/assets/papers/0430.pdf)|
+|8|![wssis](IM/wssis.png)|__Weakly-supervised Salient Instance Detection__|__BMVC 2020__|[`Paper`](https://www.bmvc2020-conference.com/assets/papers/0430.pdf)|
 |8|![referit](IM/finegrained.png)|__Fine-grained Video-Text Retrieval with Hierarchical Graph Reasoning__|__CVPR 2020__|[`Paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Fine-Grained_Video-Text_Retrieval_With_Hierarchical_Graph_Reasoning_CVPR_2020_paper.pdf) [`Github`](https://unclemedm.github.io/Refer-it-in-RGBD/)|
 |7|![referit](IM/referit.png)|__Refer-it-in-RGBD: A Bottom-up Approach for 3D Visual Grounding in RGBD Images__|__CVPR 2018__|[`Paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Refer-It-in-RGBD_A_Bottom-Up_Approach_for_3D_Visual_Grounding_in_RGBD_CVPR_2021_paper.pdf) [`Github`](https://unclemedm.github.io/Refer-it-in-RGBD/)|
 |6|![accumulate](IM/accumulate.png)|__Visual Grounding via Accumulated Attention__|__CVPR 2018__|[`Paper`](https://openaccess.thecvf.com/content_cvpr_2018/papers/Deng_Visual_Grounding_via_CVPR_2018_paper.pdf)|
