@@ -2,6 +2,7 @@
 
 |No.   |Figure   |Title   |Pub.  |Link|         
 |:----|:-----:|:-----:|:-----:|:---:|
+|17|![bi](IM/zeroshot.png)|__Zero-shot Referring Image Segmentation with Global-Local Context Features__|__CVPR 2023__|[`Paper`](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Zero-Shot_Referring_Image_Segmentation_With_Global-Local_Context_Features_CVPR_2023_paper.pdf) [`Github`](https://github.com/Seonghoon-Yu/Zero-shot-RIS)|
 |16|![bi](IM/affinitynet.png)|__Learning Pixel-level Semantic Affinity with Image-level Supervision for Weakly Supervised Semantic Segmentation__|__CVPR 2018__|[`Paper`](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ahn_Learning_Pixel-Level_Semantic_CVPR_2018_paper.pdf) [`Github`](https://github.com/jiwoon-ahn/psa)|
 |15|![bi](IM/IJCAI20.png)|__Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual and Semantic Embeddings__|__IJCAI 2020__|[`Paper`](https://arxiv.org/abs/2001.09540)|
 |14|![bi](IM/parse.png)|__Unsupervised Vision-Language Parsing: Seamlessly Bridging Visual Scene Graphs with Language Structures via Dependency Relationships__|__CVPR 2022__|[`Paper`](https://openaccess.thecvf.com/content/CVPR2022/papers/Lou_Unsupervised_Vision-Language_Parsing_Seamlessly_Bridging_Visual_Scene_Graphs_With_Language_CVPR_2022_paper.pdf) [`Github`](https://github.com/bigai-research/VLGAE)|
