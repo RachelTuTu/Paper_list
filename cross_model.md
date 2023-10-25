@@ -2,6 +2,7 @@
 
 |No.   |Figure   |Title   |Pub.  |Link|         
 |:----|:-----:|:-----:|:-----:|:---:|
+|19|![bi](IM/OVSEGMENTOR.png)|__Learning Open-Vocabulary Semantic Segmentation Models From Natural Language Supervision__|__CVPR 2023__|[`Paper`](https://arxiv.org/abs/2301.09121) [`Github`](https://github.com/Jazzcharles/OVSegmentor/#learning-open-vocabulary-semantic-segmentation-models-from-natural-language-supervision)|
 |19|![bi](IM/ov.png)|__A Simple Baseline for Open-Vocabulary Semantic Segmentation with Pre-trained Vision-language Model__|__ECCV 2022__|[`Paper`](https://arxiv.org/abs/2112.14757) [`Github`](https://github.com/MendelXu/zsseg.baseline)|
 |18|![bi](IM/clipcam.png)|__CLIPCAM: A SIMPLE BASELINE FOR ZERO-SHOT TEXT-GUIDED OBJECT AND ACTION LOCALIZATION__|__ICASSP 2022__|[`Paper`](https://ieeexplore.ieee.org/document/9747841) [`Github`](https://github.com/aiiu-lab/CLIPCAM)| 
 |17|![bi](IM/zeroshot.png)|__Zero-shot Referring Image Segmentation with Global-Local Context Features__|__CVPR 2023__|[`Paper`](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Zero-Shot_Referring_Image_Segmentation_With_Global-Local_Context_Features_CVPR_2023_paper.pdf) [`Github`](https://github.com/Seonghoon-Yu/Zero-shot-RIS)|
