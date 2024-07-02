@@ -1,7 +1,14 @@
-# Knowledge Graph
+# Other topics
 
 |No.   |Figure   |Title   |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:---:|
+|18|![bi](IM/DETR.png)|__DETR: End-to-End Object Detection with Transformers__|__ECCV 2020__|[`Paper`](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460205.pdf) [`Github`](https://github.com/facebookresearch/detr)|
+|17|![bi](IM/3dto2d.png)|__DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries__|__CORL 2021__|[`Paper`](https://arxiv.org/abs/2110.06922) [`Github`](https://github.com/WangYueFt/detr3d)|
+|16|![bi](IM/CSSA.png)|__Multimodal Object Detection by Channel Switching and Spatial Attention__|__CVPR 2023__|[`Paper`](https://openaccess.thecvf.com/content/CVPR2023W/PBVS/papers/Cao_Multimodal_Object_Detection_by_Channel_Switching_and_Spatial_Attention_CVPRW_2023_paper.pdf)|
+|15|![bi](IM/slotVOS.png)|__Guided Slot Attention for Unsupervised Video Object Segmentation__|__CVPR 2024__|[`Paper`](https://arxiv.org/abs/2303.08314) [`Github`](https://github.com/Hydragon516/GSANet)|
+|14|![bi](IM/unsuperSOD.png)|__Structure-Consistent Weakly Supervised Salient Object Detection with Local Saliency Coherence__|__AAAI 2021__|[`Paper`](https://cdn.aaai.org/ojs/16434/16434-13-19928-1-2-20210518.pdf) [`Github`](http://github.com/siyueyu/SCWSSOD)|
+|13|![bi](IM/CMW.png)|__Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration__|__CVPR 2024__|[`Paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Meng_Correlation-aware_Coarse-to-fine_MLPs_for_Deformable_Medical_Image_Registration_CVPR_2024_paper.pdf) [`Github`](https://github.com/MungoMeng/Registration-CorrMLP)|
+|12|![bi](IM/FEC.png)|__Neural Clustering based Visual Representation Learning__|__CVPR 2024__|[`Paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Neural_Clustering_based_Visual_Representation_Learning_CVPR_2024_paper.pdf) [`Github`](https://github.com/guikunchen/FEC/)|
 |11|![vip_cnn](IM/vip_cnn.png)|__ViP-CNN: Visual Phrase Guided Convolutional Neural Network__|__CVPR 2017__|[`Paper`](https://openaccess.thecvf.com/content_cvpr_2017/papers/Li_ViP-CNN_Visual_Phrase_CVPR_2017_paper.pdf)|
 |10|![scene_graph](IM/scene_graph.png)|__A Comprehensive Survey of Scene Graphs: Generation and Application__|__TPAMI 2023__|[`Paper`](https://arxiv.org/pdf/2104.01111.pdf)|
 |9|![zoomnet](IM/zoomnet.png)|__Zoom-Net: Mining Deep Feature Interactions for Visual Relationship Recognition__|__ECCV 2018__|[`Paper`](https://openaccess.thecvf.com/content_ECCV_2018/papers/Guojun_Yin_Zoom-Net_Mining_Deep_ECCV_2018_paper.pdf)|
