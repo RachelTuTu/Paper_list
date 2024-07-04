@@ -2,6 +2,10 @@
 
 |No.   |Figure   |Title   |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:---:|
+|22|![bi](IM/MOO.png)|__Open-World Object Manipulation using Pre-Trained Vision-Language Models__|__CORL 2023__|[`Paper`](https://arxiv.org/abs/2303.00905) [`Github`](https://robot-moo.github.io/)|
+|21|![bi](IM/SCSOD.png)|__Structure-Consistent Weakly Supervised Salient Object Detection with Local Saliency Coherence__|__AAAI 2021__|[`Paper`](https://cdn.aaai.org/ojs/16434/16434-13-19928-1-2-20210518.pdf) [`Github`](https://github.com/siyueyu/SCWSSOD)|
+|20|![bi](IM/MSG.png)|__MSG-Transformer: Exchanging Local Spatial Information by Manipulating Messenger Tokens__|__CVPR 2022__|[`Paper`](https://openaccess.thecvf.com/content/CVPR2022/papers/Fang_MSG-Transformer_Exchanging_Local_Spatial_Information_by_Manipulating_Messenger_Tokens_CVPR_2022_paper.pdf) [`Github`](https://github.com/hustvl/MSG-Transformer)|
+|19|![bi](IM/EFF_CAMOUFLAGED.png)|__Deep Gradient Learning for Efficient Camouflaged Object Detection__|__MIR 2023__|[`Paper`](https://arxiv.org/abs/2205.12853) [`Github`](https://github.com/GewelsJI/DGNet)|
 |18|![bi](IM/DETR.png)|__DETR: End-to-End Object Detection with Transformers__|__ECCV 2020__|[`Paper`](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460205.pdf) [`Github`](https://github.com/facebookresearch/detr)|
 |17|![bi](IM/3dto2d.png)|__DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries__|__CORL 2021__|[`Paper`](https://arxiv.org/abs/2110.06922) [`Github`](https://github.com/WangYueFt/detr3d)|
 |16|![bi](IM/CSSA.png)|__Multimodal Object Detection by Channel Switching and Spatial Attention__|__CVPR 2023__|[`Paper`](https://openaccess.thecvf.com/content/CVPR2023W/PBVS/papers/Cao_Multimodal_Object_Detection_by_Channel_Switching_and_Spatial_Attention_CVPRW_2023_paper.pdf)|
