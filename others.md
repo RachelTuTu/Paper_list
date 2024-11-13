@@ -2,6 +2,7 @@
 
 |No.   |Figure   |Title   |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:---:|
+|23|![bi](IM/moe.png)|__OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER__|__ICLR 2017__|[`Paper`](https://arxiv.org/pdf/1701.06538) [`Github`](https://github.com/davidmrau/mixture-of-experts)|
 |22|![bi](IM/MOO.png)|__Open-World Object Manipulation using Pre-Trained Vision-Language Models__|__CORL 2023__|[`Paper`](https://arxiv.org/abs/2303.00905) [`Github`](https://robot-moo.github.io/)|
 |21|![bi](IM/SCSOD.png)|__Structure-Consistent Weakly Supervised Salient Object Detection with Local Saliency Coherence__|__AAAI 2021__|[`Paper`](https://cdn.aaai.org/ojs/16434/16434-13-19928-1-2-20210518.pdf) [`Github`](https://github.com/siyueyu/SCWSSOD)|
 |20|![bi](IM/MSG.png)|__MSG-Transformer: Exchanging Local Spatial Information by Manipulating Messenger Tokens__|__CVPR 2022__|[`Paper`](https://openaccess.thecvf.com/content/CVPR2022/papers/Fang_MSG-Transformer_Exchanging_Local_Spatial_Information_by_Manipulating_Messenger_Tokens_CVPR_2022_paper.pdf) [`Github`](https://github.com/hustvl/MSG-Transformer)|
@@ -14,7 +15,7 @@
 |13|![bi](IM/CMW.png)|__Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration__|__CVPR 2024__|[`Paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Meng_Correlation-aware_Coarse-to-fine_MLPs_for_Deformable_Medical_Image_Registration_CVPR_2024_paper.pdf) [`Github`](https://github.com/MungoMeng/Registration-CorrMLP)|
 |12|![bi](IM/FEC.png)|__Neural Clustering based Visual Representation Learning__|__CVPR 2024__|[`Paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Neural_Clustering_based_Visual_Representation_Learning_CVPR_2024_paper.pdf) [`Github`](https://github.com/guikunchen/FEC/)|
 |11|![vip_cnn](IM/vip_cnn.png)|__ViP-CNN: Visual Phrase Guided Convolutional Neural Network__|__CVPR 2017__|[`Paper`](https://openaccess.thecvf.com/content_cvpr_2017/papers/Li_ViP-CNN_Visual_Phrase_CVPR_2017_paper.pdf)|
-|10|![scene_graph](IM/scene_graph.png)|__A Comprehensive Survey of Scene Graphs: Generation and Application__|__TPAMI 2023__|[`Paper`](https://arxiv.org/pdf/2104.01111.pdf)|
+|10|![scene_graph](IM/scene_graph.png)|__A Comprehensive Survey of Scene Graphs: Generation and Application__|__TPAMI 2µ023__|[`Paper`](https://arxiv.org/pdf/2104.01111.pdf)|
 |9|![zoomnet](IM/zoomnet.png)|__Zoom-Net: Mining Deep Feature Interactions for Visual Relationship Recognition__|__ECCV 2018__|[`Paper`](https://openaccess.thecvf.com/content_ECCV_2018/papers/Guojun_Yin_Zoom-Net_Mining_Deep_ECCV_2018_paper.pdf)|
 |8|![segdiff](IM/segdiff.png)|__SegDiff: Image Segmentation with Diffusion Probabilistic Models__|__arxiv 2022__|[`Paper`](https://arxiv.org/pdf/2112.00390.pdf)|
 |7|![diff](IM/diff.png)|__Anchor Diffusion for Unsupervised Video Object Segmentation__|__ICCV 2019__|[`Paper`](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Anchor_Diffusion_for_Unsupervised_Video_Object_Segmentation_ICCV_2019_paper.pdf) [`Github`](https://github.com/yz93/anchor-diff-VOS)|
