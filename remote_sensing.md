@@ -2,6 +2,7 @@
 
 |No.   |Figure   |Title   |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:---:|
+|9|![SkyScript](IM/angle.png)|__Angle Robustness Unmanned Aerial Vehicle Navigation in GNSS-Denied Scenarios__|__AAAI 2024__|[`Paper`](https://arxiv.org/pdf/2402.02405) [`Github`](https://github.com/Katherine121/AngleRobust)| 
 |8|![SkyScript](IM/skyscript.png)|__SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing__|__AAAI 2024__|[`Paper`](https://arxiv.org/pdf/2312.12856) [`Github`](https://github.com/wangzhecheng/SkyScript)| 
 |7|![zsd](IM/zsd.png)|__Zero-Shot Aerial Object Detection with Visual Description Regularization__|__AAAI 2024__|[`Paper`](https://arxiv.org/pdf/2402.18233) [`Github`](https://github.com/zq-zang/DescReg)| 
 |6|![rspan](IM/rspan.png)|__Content-Adaptive Non-Local Convolution for Remote Sensing Pansharpening__|__CVPR 2024__|[`Paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Duan_Content-Adaptive_Non-Local_Convolution_for_Remote_Sensing_Pansharpening_CVPR_2024_paper.pdf) [`Github`](https://github.com/duanyll/CANConv)|
