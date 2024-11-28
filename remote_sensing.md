@@ -2,6 +2,7 @@
 
 |No.   |Figure   |Title   |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:---:|
+|11|![fred](IM/fred.png)|__FRED: Towards a Full Rotation-Equivariance in Aerial Image Object Detection__|__AAAI 2024__|[`Paper`](https://arxiv.org/pdf/2401.06159)| 
 |10|![SkyScript](IM/earthvqa.png)|__EarthVQA: Towards Queryable Earth via Relational Reasoning-Based Remote Sensing Visual Question Answering__|__AAAI 2024__|[`Paper`](https://arxiv.org/pdf/2312.12222) [`Github`](https://Junjue-Wang.github.io/homepage/EarthVQA)| 
 |9|![SkyScript](IM/angle.png)|__Angle Robustness Unmanned Aerial Vehicle Navigation in GNSS-Denied Scenarios__|__AAAI 2024__|[`Paper`](https://arxiv.org/pdf/2402.02405) [`Github`](https://github.com/Katherine121/AngleRobust)| 
 |8|![SkyScript](IM/skyscript.png)|__SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing__|__AAAI 2024__|[`Paper`](https://arxiv.org/pdf/2312.12856) [`Github`](https://github.com/wangzhecheng/SkyScript)| 
