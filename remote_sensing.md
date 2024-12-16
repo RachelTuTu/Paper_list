@@ -1,11 +1,14 @@
 # Remote Sensing
 
 |No.   |Figure   |Title   |Pub.  |Links|
-|-----|:-----:|:-----:|:-----:|:---:|
+|-----|:-----:|:-----:|:-----:|:---:|  
+|15|![FPV-NeRF](IM/FPV_nerf.png)|__Radiance Field Learners As UAV  First-Person Viewers__|__ECCV 2024__|[`Paper`](https://arxiv.org/pdf/2408.05533) [`Github`](https://fpv-nerf.github.io/)| 
+|14|![GeoText](IM/GeoText.png)|__Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatial  Relation Matching__|__ECCV 2024__|[`Paper`](https://arxiv.org/pdf/2311.12751) [`Github`](https://multimodalgeo.github.io/GeoText/)| 
+|13|![MAVREC](IM/MAVREC.png)|__Multiview Aerial Visual Recognition (MAVREC): Can Multi-view Improve Aerial Visual Perception?__|__CVPR 2024__|[`Paper`](https://arxiv.org/pdf/2312.04548) [`Github`](https://mavrec.github.io)| 
 |12|![MPNERF](IM/MPNERF.png)|__Multiplane Prior Guided Few-Shot Aerial Scene Rendering__|__CVPR 2024__|[`Paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_Multiplane_Prior_Guided_Few-Shot_Aerial_Scene_Rendering_CVPR_2024_paper.pdf)| 
 |11|![fred](IM/fred.png)|__FRED: Towards a Full Rotation-Equivariance in Aerial Image Object Detection__|__AAAI 2024__|[`Paper`](https://arxiv.org/pdf/2401.06159)| 
-|10|![SkyScript](IM/earthvqa.png)|__EarthVQA: Towards Queryable Earth via Relational Reasoning-Based Remote Sensing Visual Question Answering__|__AAAI 2024__|[`Paper`](https://arxiv.org/pdf/2312.12222) [`Github`](https://Junjue-Wang.github.io/homepage/EarthVQA)| 
-|9|![SkyScript](IM/angle.png)|__Angle Robustness Unmanned Aerial Vehicle Navigation in GNSS-Denied Scenarios__|__AAAI 2024__|[`Paper`](https://arxiv.org/pdf/2402.02405) [`Github`](https://github.com/Katherine121/AngleRobust)| 
+|10|![EarthVQA](IM/earthvqa.png)|__EarthVQA: Towards Queryable Earth via Relational Reasoning-Based Remote Sensing Visual Question Answering__|__AAAI 2024__|[`Paper`](https://arxiv.org/pdf/2312.12222) [`Github`](https://Junjue-Wang.github.io/homepage/EarthVQA)| 
+|9|![angle](IM/angle.png)|__Angle Robustness Unmanned Aerial Vehicle Navigation in GNSS-Denied Scenarios__|__AAAI 2024__|[`Paper`](https://arxiv.org/pdf/2402.02405) [`Github`](https://github.com/Katherine121/AngleRobust)| 
 |8|![SkyScript](IM/skyscript.png)|__SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing__|__AAAI 2024__|[`Paper`](https://arxiv.org/pdf/2312.12856) [`Github`](https://github.com/wangzhecheng/SkyScript)| 
 |7|![zsd](IM/zsd.png)|__Zero-Shot Aerial Object Detection with Visual Description Regularization__|__AAAI 2024__|[`Paper`](https://arxiv.org/pdf/2402.18233) [`Github`](https://github.com/zq-zang/DescReg)| 
 |6|![rspan](IM/rspan.png)|__Content-Adaptive Non-Local Convolution for Remote Sensing Pansharpening__|__CVPR 2024__|[`Paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Duan_Content-Adaptive_Non-Local_Convolution_for_Remote_Sensing_Pansharpening_CVPR_2024_paper.pdf) [`Github`](https://github.com/duanyll/CANConv)|
