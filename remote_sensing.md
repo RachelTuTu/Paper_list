@@ -2,6 +2,7 @@
 
 |No.   |Figure   |Title   |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:---:|  
+|16|![crobim](IM/crobim.png)|__Cross-Modal Bidirectional Interaction Model for Referring Remote Sensing Image Segmentation__|__arxiv 2024__|[`Paper`](https://arxiv.org/pdf/2410.08613v1) [`Github`](https://github.com/HIT-SIRS/CroBIM)| 
 |15|![FPV-NeRF](IM/FPV_nerf.png)|__Radiance Field Learners As UAV  First-Person Viewers__|__ECCV 2024__|[`Paper`](https://arxiv.org/pdf/2408.05533) [`Github`](https://fpv-nerf.github.io/)| 
 |14|![GeoText](IM/GeoText.png)|__Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatial  Relation Matching__|__ECCV 2024__|[`Paper`](https://arxiv.org/pdf/2311.12751) [`Github`](https://multimodalgeo.github.io/GeoText/)| 
 |13|![MAVREC](IM/MAVREC.png)|__Multiview Aerial Visual Recognition (MAVREC): Can Multi-view Improve Aerial Visual Perception?__|__CVPR 2024__|[`Paper`](https://arxiv.org/pdf/2312.04548) [`Github`](https://mavrec.github.io)| 
